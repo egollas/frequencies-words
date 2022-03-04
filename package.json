@@ -1,0 +1,25 @@
+{
+  "name": "uploaddocs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src",
+    "dev": "nodemon ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1084.0",
+    "carbone": "^3.2.3",
+    "dotenv": "^16.0.0",
+    "fastify": "^3.27.2",
+    "fastify-multipart": "^5.3.1",
+    "fastify-swagger": "^4.17.0",
+    "tmp-promise": "^3.0.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

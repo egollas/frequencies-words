@@ -1,0 +1,3 @@
+The short answer is anywhere you want.
+
+JavaScript has had a lot of different stages in its life and a lot of different types of people using it. Which is probably why most tools these days are highly configurable, to allow for personalization (customization.)
